@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.btn_siguiente{
+  margin: 5px;
+  border: 2px solid aqua;
+  background: none;
+  border-radius: 10px;
+
+  
+}
+
+.btn_anterior{
+  margin: 5px;  
+  border: 2px solid aqua;
+  background: none;
+  border-radius: 10px;
+}
+
+h2{
+  color: aqua;
+  cursor: pointer;
+}

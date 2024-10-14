@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { MiPrimerEstado } from './Components/MiPrimerEstado';
+import { ComponenteEjercicio } from './Components/ComponenteEjercicio';
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         
         <h1>El estado en React - HookUseState</h1>
-        <MiPrimerEstado></MiPrimerEstado>
+        <ComponenteEjercicio></ComponenteEjercicio>
       </header>
     </div>
   );
